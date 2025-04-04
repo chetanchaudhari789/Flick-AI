@@ -21,8 +21,7 @@ Meet Flick.AI: Your ultimate AI-powered tweet-refining assistant. Whether you're
 To clone the repository locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/flick-ai.git 
-cd ghostgram
+git clone https://github.com/chetanchaudhari789/Flick-AI.git
 ```
 
 ### Installation
