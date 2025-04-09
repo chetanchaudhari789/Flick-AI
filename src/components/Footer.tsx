@@ -17,7 +17,7 @@ export default function Footer() {
                     </li>
 
                     <li className="list-disc">
-                        <Link href="https://chetan.tech/">
+                        <Link href="https://chetan-black.vercel.app/">
                             Developer
                         </Link>
                     </li>
